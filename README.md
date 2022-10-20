@@ -52,7 +52,7 @@ Import database akash.sql from downloaded folder(inside database)
 <h3>Admin Login</h3>
 </div>
 <ul>
- 	<li>project index url/admin</li>
+ 	
  	<li>username- travel.com</li>
  	<li>password- 12345</li>
 </ul>

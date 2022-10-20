@@ -43,7 +43,7 @@ Back end: PHP, MySQL
 2. Put this file inside "c:/wamp/www/" .
 3. Database Configuration
 Open phpmyadmin
-Create Database named <strong>akash</strong>.sql
+Create Database named <strong>travel</strong>.sql
 Import database akash.sql from downloaded folder(inside database)
 4. Open Your browser put inside "<a class="vglnk" href="http://localhost/Online_exam_New/" rel="nofollow">http://localhost/project folder/</a>"
 
@@ -53,7 +53,7 @@ Import database akash.sql from downloaded folder(inside database)
 </div>
 <ul>
  	<li>project index url/admin</li>
- 	<li>username- admin@admin.com</li>
+ 	<li>username- travel.com</li>
  	<li>password- 12345</li>
 </ul>
 </div>
